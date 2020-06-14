@@ -1,6 +1,6 @@
 // 1 - Import de puppeteer
-const puppeteer = require('puppeteer')
-const fs = require('fs')
+const puppeteer = require('puppeteer');
+const fs = require('fs');
 
 /*
 // 2 - Récupération des URLs de toutes les pages à visiter
